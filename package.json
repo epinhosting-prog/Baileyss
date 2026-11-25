@@ -1,5 +1,5 @@
 {
-  "name": "@dappaoffc/baileys-mod",
+  "name": "@tamasturr/bailyes",
   "version": "8.0.0",
   "description": "Websocket Whatsapp API for Node.js",
  "keywords": [
@@ -15,13 +15,13 @@
     "multi-device",
     "itsdappaofficial"
   ],
-  "homepage": "https://github.com/itsdappaofficial/Baileys",
+  "homepage": "https://github.com/epinhosting-prog/Baileysa",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/itsdappaofficial/Baileys.git"
+    "url": "git+ssh://git@github.com/epinhosting-prog/Baileys.git"
   },
   "license": "MIT",
-  "author": "itsdappaofficial",
+  "author": "tamasturr",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -100,6 +100,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/itsdappaofficial/Baileys/issues"
+    "url": "https://github.com/epinhosting-prog/Baileys/issues"
   }
 }
